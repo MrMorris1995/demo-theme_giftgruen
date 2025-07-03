@@ -1,0 +1,23 @@
+/*
+Theme Name: Giftgruen
+Author: Maurice Pauluhn
+Author URI: https://giftgruen.de
+Version: 1.0
+*/
+
+/* Set all links to be underlined */
+
+A {
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+/* Change color on hover */
+A:hover {
+    color: red;
+}
+
+/* On Hover, cursor changes to pointer */
+H1:hover {
+    cursor: pointer;
+}
